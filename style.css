@@ -33,11 +33,13 @@ body{
         background-color: var(--primary-color);
         border-radius: 2rem;
         color: whitesmoke;
+        margin-left: 1rem;
 }
 .secondary-link{
     color: var(--primary-color);
     border: 1px solid #7C3AED;
     border-radius: 2rem;
+    margin-left: 1rem;
 }
 /* lists */
 .list-non-bullet{
