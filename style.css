@@ -3,7 +3,9 @@
 :root{
     --primary-color:#7C3AED;
 }
-
+hr{
+    margin: 2rem 0rem;
+}
 body{
     font-family: 'Open Sans', sans-serif;
 }
@@ -34,6 +36,8 @@ body{
     border: 1px solid #7C3AED;
     border-radius: 2rem;
 }
+/* lists */
+
 
 
 
