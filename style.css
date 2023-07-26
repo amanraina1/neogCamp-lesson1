@@ -31,7 +31,7 @@ body{
 
 .primary-link{
         background-color: var(--primary-color);
-        border-radius: 2rem;
+        border-radius: .5rem;
         color: whitesmoke;
         margin-left: 1rem;
 }
