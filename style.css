@@ -44,6 +44,25 @@ body{
     display: inline;
     padding: 0rem 0.5rem;
 }
-
+/* navigation */
+.navigation{
+    background-color: var(--primary-color);
+    color: whitesmoke;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+.navigation .link{
+    color: white;
+}
+.navigation .nav-pills{
+    text-align: right;
+}
+.navigation .nav-brand{
+    font-weight: 800;
+    font-size: larger;
+}
+.navigation .link-active{
+    font-size: larger;
+}
 
 
