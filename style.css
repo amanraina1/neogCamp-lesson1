@@ -37,7 +37,13 @@ body{
     border-radius: 2rem;
 }
 /* lists */
-
+.list-non-bullet{
+    list-style: none;
+}
+.list-items-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
 
 
 
